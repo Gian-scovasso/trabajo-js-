@@ -27,3 +27,6 @@ n9 = 45;
 
 //console.log
 console.log(n1 + n2);
+console.log(n3 / n1);
+console.log(n4 * n1);
+console.log(n9 / n1);
