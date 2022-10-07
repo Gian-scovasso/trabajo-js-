@@ -7,3 +7,7 @@ const miName3 = "gian_3";
 
 nom="Gian";
 apll="Scovasso";
+
+//arrays
+Array={nom,apll,edad}
+Array.length,[0];
