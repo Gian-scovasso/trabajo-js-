@@ -14,3 +14,5 @@ Array.length,[0];
 
 //numericas
 edad=17;
+inicio=1;
+n1 = 5;
