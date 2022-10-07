@@ -30,3 +30,7 @@ console.log(n1 + n2);
 console.log(n3 / n1);
 console.log(n4 * n1);
 console.log(n9 / n1);
+console.log(array)
+console.log(miName1);
+console.log(miName2);
+console.log(miName3);
