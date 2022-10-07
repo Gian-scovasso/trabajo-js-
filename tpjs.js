@@ -16,3 +16,4 @@ Array.length,[0];
 edad=17;
 inicio=1;
 n1 = 5;
+n2 = 10;
