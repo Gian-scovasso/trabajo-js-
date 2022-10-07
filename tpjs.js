@@ -11,3 +11,6 @@ apll="Scovasso";
 //arrays
 Array={nom,apll,edad}
 Array.length,[0];
+
+//numericas
+edad=17;
