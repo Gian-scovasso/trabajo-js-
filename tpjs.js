@@ -24,3 +24,6 @@ n6 = 30;
 n7 = 35;
 n8 = 40;
 n9 = 45;
+
+//console.log
+console.log(n1 + n2);
